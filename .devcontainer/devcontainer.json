@@ -1,0 +1,82 @@
+{
+  "dockerComposeFile": ["../docker-compose.yml", "docker-compose.yml"],
+  "service": "zenn",
+  "workspaceFolder": "/workspace",
+  "extensions": [
+    ////
+    ///  Writing(Markdown, HTML)
+    //
+
+    // Markdown All in One
+    // https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+    "yzhang.markdown-all-in-one",
+
+    // :emojisense:
+    // https://marketplace.visualstudio.com/items?itemName=bierner.emojisense
+    "bierner.emojisense",
+
+    // Insert Date String
+    // https://marketplace.visualstudio.com/items?itemName=jsynowiec.vscode-insertdatestring
+    "jsynowiec.vscode-insertdatestring",
+
+    // Copy file name
+    // https://marketplace.visualstudio.com/items?itemName=nemesv.copy-file-name
+    "nemesv.copy-file-name",
+
+    // Path Intellisense
+    // https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+    "christian-kohler.path-intellisense",
+
+    // markdownlint
+    // https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint
+    "davidanson.vscode-markdownlint",
+
+    // vscode-textlint
+    // https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint
+    "taichi.vscode-textlint",
+
+    // Prettier - Code formatter
+    // https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+    "esbenp.prettier-vscode",
+
+    // Code Spell Checker
+    // https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+    "streetsidesoftware.code-spell-checker",
+
+    ////
+    /// Git
+    //
+
+    // GitLens — Git supercharged
+    // https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+    "eamodio.gitlens",
+
+    // gitignore
+    // https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore
+    "codezombiech.gitignore",
+
+    // GitHub Pull Requests and Issues
+    // https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+    "github.vscode-pull-request-github",
+
+    // Git Graph
+    // https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+    "mhutchie.git-graph",
+
+    ////
+    /// Other
+    //
+
+    // Output Colorizer
+    // https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer
+    "ibm.output-colorizer",
+
+    // Todo Tree
+    // https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+    "gruntfuggly.todo-tree",
+
+    // Japanese Language Pack for Visual Studio Code
+    // https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja
+    "ms-ceintl.vscode-language-pack-ja"
+  ]
+}
